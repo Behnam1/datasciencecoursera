@@ -1,2 +1,2 @@
 # datasciencecoursera
-New repo for Data Scientist's Toolboc project
+New repo for Data Scientist's Toolbox project
